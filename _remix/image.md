@@ -17,6 +17,7 @@ tags:
 
 Ασκηση: Κατανοήστε τον τρόπο λειτουργίας των εικόνων τύπου SVG και στη συνέχεια τροποποιείστε το παράδειγμα δημιουργώντας δίπλα στην υπάρχουσα εικόνα, μια ίδια (που να εκτελεί την ίδια λειτουργία) του μισού μεγέθους.
 
+
 <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="2019166olumpiaalexopoulou" data-slug-hash="zYBjMjq" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="zYBjMjq">
   <span>See the Pen <a href="https://codepen.io/2019166olumpiaalexopoulou/pen/zYBjMjq">
   zYBjMjq</a> by 2019166 (<a href="https://codepen.io/2019166olumpiaalexopoulou">@2019166olumpiaalexopoulou</a>)
