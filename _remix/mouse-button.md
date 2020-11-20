@@ -16,3 +16,10 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Τροποποιήστε το παράδειγμα δημιουργώντας ένα 2ο κουμπί που θα εκτελεί τη την ανάποδη λειτουργία από αυτή του κουμπιού "ANOTHER". Το νέο κουμπί πρέπει να εμφανίζει το μήνυμα που είχε εμφανιστεί προηγουμένως.
+
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="2019166olumpiaalexopoulou" data-slug-hash="rNLgbKm" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Mouse Button">
+  <span>See the Pen <a href="https://codepen.io/2019166olumpiaalexopoulou/pen/rNLgbKm">
+  Mouse Button</a> by 2019166 (<a href="https://codepen.io/2019166olumpiaalexopoulou">@2019166olumpiaalexopoulou</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
